@@ -1,0 +1,10 @@
+﻿state,T_K,n,mean,se,corrected_summary,operator
+D,150.0,5,69.7314225902572,2.9127776459210213,False,equal-interval arithmetic mean
+L,150.0,7,85.73444937693104,3.2050649630103587,False,equal-interval arithmetic mean
+U,150.0,3,82.71015014926267,1.8359768348895107,False,equal-interval arithmetic mean
+D,200.0,5,58.2098676800555,1.561603405889618,False,equal-interval arithmetic mean
+L,200.0,5,64.364288498443,2.0313331706296265,False,equal-interval arithmetic mean
+U,200.0,5,59.76458980857759,2.482219736092809,False,equal-interval arithmetic mean
+D,300.0,5,34.94264018432326,1.4340184308933337,False,equal-interval arithmetic mean
+L,300.0,5,37.18029178826289,1.474173755325592,False,equal-interval arithmetic mean
+U,300.0,3,36.36912579132677,1.2681976981624243,False,equal-interval arithmetic mean
