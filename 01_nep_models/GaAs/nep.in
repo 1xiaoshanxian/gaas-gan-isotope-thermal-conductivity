@@ -1,0 +1,8 @@
+type         2 Ga As
+version      4
+cutoff       6 6 
+neuron       40
+n_max        8 6
+basis_size   8 8
+
+

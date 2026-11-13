@@ -1,0 +1,9 @@
+potential       ../../nep.txt
+velocity        300
+time_step       1
+
+
+ensemble      nvt_nhc 300 300 100
+compute_hnemd 1000 0.00002 0 0
+compute_shc   4 250 0 1000 200.0
+run           10000000
