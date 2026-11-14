@@ -1,7 +1,0 @@
-﻿material,f_lo_THz,f_hi_THz,n_ir_modes,weighted_mode_count,log_slope,weighted_R2,status
-GaN,0.3,1.0,9,46.0,6.21103257041636,0.9940337684209553,descriptive pooled-mode fit; not a branch-resolved asymptotic test
-GaN,0.5,1.5,24,166.0,4.71313068650826,0.9926172338969195,descriptive pooled-mode fit; not a branch-resolved asymptotic test
-GaN,0.5,2.0,44,410.0,4.561136375076218,0.9967402506282894,descriptive pooled-mode fit; not a branch-resolved asymptotic test
-GaAs,0.3,1.0,66,1506.0,4.359168833877636,0.999784057011431,descriptive pooled-mode fit; not a branch-resolved asymptotic test
-GaAs,0.5,1.5,199,5632.0,4.655939983671669,0.9981450510509544,descriptive pooled-mode fit; not a branch-resolved asymptotic test
-GaAs,0.5,2.0,704,23198.0,5.863710992520577,0.9729564199708999,descriptive pooled-mode fit; not a branch-resolved asymptotic test
